@@ -25,7 +25,7 @@ export const contacts: readonly Contact[] = [
   {
     firstName: "Hannah",
     lastName: "Nolan",
-    title: "Community Partner Lead / Research Assistant, 2nd Author",
+    title: "Community Partner Lead, 2nd Author",
     email: "hannah.nolan@posabilities.ca",
   },
 ];
