@@ -71,7 +71,7 @@ body {
   font-size: 0.9rem;
 }
 
-.card__email {
+.card__link {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
@@ -82,13 +82,13 @@ body {
   transition: color 0.15s ease;
 }
 
-.card__email:hover,
-.card__email:focus-visible {
+.card__link:hover,
+.card__link:focus-visible {
   color: var(--text);
   text-decoration: underline;
 }
 
-.card__email:focus-visible {
+.card__link:focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 4px;
   border-radius: 4px;
