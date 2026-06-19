@@ -28,3 +28,4 @@ npx vercel --prod # production deploy
 
 Vercel auto-detects Next.js — no extra configuration required.
 # Social-Media-Use-A-Pathway-to-Connection-for-Individuals-with-Developmental-Disabilities
+# Social-Media-Use-A-Pathway-to-Connection-for-Individuals-with-Developmental-Disabilities
